@@ -51,6 +51,7 @@ Here is a video demonstration of the application: https://drive.google.com/file/
 ## License
 This project is licensed under the MIT License.
 
-## Author
-Lisa Jorgensen
+## Acknowledgements
+University of Denver Coding Boot Camp educational team for providing foundational code and design elements as part of the course curriculum.​
+GitHub Pages for hosting the project.
 
