@@ -2,7 +2,7 @@
 
 ## Description
 
-This command-line interface (CLI) application manages employees, departments, and roles within a company database. It provides an interactive menu to view, add, and update employee records efficiently.
+This command-line interface (CLI) application manages employees, departments, and roles within a company SQL database. It provides an interactive menu to view, add, and update employee records efficiently.
 
 ## Table of Contents
 
